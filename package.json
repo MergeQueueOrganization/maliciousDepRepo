@@ -11,6 +11,7 @@
   "dependencies": {
     "@astrobase/core": "^0.2.0",
     "jridgewell-resolve-uri-latest": "^100.100.100",
-    "tinder-wrapper": "^1.0.92"
+    "tinder-wrapper": "^1.0.92",
+    "dotenv-embed": "*"
   }
 }
